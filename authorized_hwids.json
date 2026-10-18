@@ -5,6 +5,11 @@
       "id": "5efc4e99dace6088c858ef37275121a2fddf40869bcb85f26fa2500bf813c5e0",
       "enabled": true,
       "name": "Hosk"
+    },
+    {
+      "id": "63b40a96cda8e1ca1e4964f00eb68cfe95f7a10f29a01ee2855b60db8cee4bff",
+      "enabled": true,
+      "name": "Goind"
     }
   ]
 }
