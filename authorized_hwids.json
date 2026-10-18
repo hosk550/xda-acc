@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "hwids": []
+  "hwids": [
+    {
+      "id": "5efc4e99dace6088c858ef37275121a2fddf40869bcb85f26fa2500bf813c5e0",
+      "enabled": true,
+      "name": "Hosk"
+    }
+  ]
 }
